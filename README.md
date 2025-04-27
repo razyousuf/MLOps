@@ -13,7 +13,7 @@ Watch the walkthrough of this project on LinkedIn:
 
 [![House Price Prediction Demo](https://img.shields.io/badge/LinkedIn-Video_Demo-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/posts/raz-yousufi-7706322a3_ml-mlops-zenml-activity-7321932703661002752-r8rV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEk9_MQBNO2Hr48sSzDGlY5NnwqtWGq-vhQ)
 
-![Snapshot](images/Screenshot (4416).png)
+![Snapshot](images/buildpipeline.png)
 ---
 
 ## 🛠️ Project Structure
