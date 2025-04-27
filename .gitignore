@@ -1,0 +1,6 @@
+# Virtual Environment and Extra files
+.venv/
+design_patterns/
+.zen/
+# Python cache and build files
+__pycache__/
